@@ -1,0 +1,5 @@
+tested getShortenerSequence()
+tested save()
+TODO pending shortenerSchema.post
+check app.post("/api/shorturl") maybe abstract it
+chack app.get("/api/shorturl/:numba") maybe abstract it
